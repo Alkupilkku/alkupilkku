@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 - [Projects](#Projects)
 - [About me](#About-me)
 - [How to reach me](#How-to-reach-me)
- <br>
- <br>
- <br>
- <br>
+
 ## Projects 💥
- | Name   | About | Link|
+ | Name   | About | Link |
  | --------- | ------- | ------- |
  | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots.  | https://alkupilkku.github.io/Photography-site/|
  <br>
