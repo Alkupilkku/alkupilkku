@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 ## Table of Contents ❓
 - [Projects](#Projects)
 - [About me](#About-me)
-- [How to reach me](#How-to-reach-me)
 
 ## Projects 💥
  | Name   | About | Link |
  | --------- | ------- | ------- |
  | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots.  | https://alkupilkku.github.io/Photography-site/|
 ## About me
-
+ - 🌱 I’m currently learning Javascript.
+ - 📷 I like taking photos of nature.
  | What I've worked with| 
  | ---------- |
  | HTML       |
