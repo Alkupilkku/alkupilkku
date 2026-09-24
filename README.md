@@ -25,10 +25,8 @@ Here are some ideas to get you started:
  | Name   | About | Link |
  | --------- | ------- | ------- |
  | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots.  | https://alkupilkku.github.io/Photography-site/|
- <br>
- <br>
- <br>
- <br>
+## About me
+
  | What I've worked with| 
  | ---------- |
  | HTML       |
