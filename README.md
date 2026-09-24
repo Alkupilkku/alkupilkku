@@ -2,6 +2,7 @@
 
  ⭐ $${\color{lightblue}Looking \space to \space find \space projects \space to \space be \space a \space part \space of}$$ ⭐
  <br>
+ <br>
  ⭐ $${\color{lightgreen}Working \space on \space better \space software \space development}$$  ⭐
 <!--
 **Alkupilkku/alkupilkku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| What I've worked with| 
-| --------- |
-| HTML       |
-| CSS        |
-| JavaScript |
-
 ## Table of Contents ❓
 - [Projects](#Projects)
 - [About me](#About-me)
 - [How to reach me](#How-to-reach-me)
-
+ <br>
+ <br>
+<br>
+ <br>
 ## Projects 💥
 | Name   | About | Link|
 | --------- | ------- | ------- |
@@ -36,3 +34,12 @@ Here are some ideas to get you started:
 |           |         |
 |           |         |
 |           |         |
+ <br>
+ <br>
+ <br>
+ <br>
+ | What I've worked with| 
+| --------- |
+| HTML       |
+| CSS        |
+| JavaScript |
