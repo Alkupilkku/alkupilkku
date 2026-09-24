@@ -13,16 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| Working on better software development | Joel Gebre |
+| Working on better software development | Looking to find projects to be a part of 😄 |
 | --------- | ------- |
-| first     |         |
-|           |         |
-|           |         |
-|           |         |
-|           |         |
-|           |         |
-|           |         |
- HTML CSS JavaScript.
+| HTML       |         |
+| CSS        |         |
+| JavaScript |         |
+|            |         |
+|            |         |
+|            |         |
+|            |         |
 ## Table of Contents
 - [About me](#About-me)
 - [Projects](#Projects)
