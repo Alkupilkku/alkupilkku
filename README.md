@@ -22,24 +22,18 @@ Here are some ideas to get you started:
 - [How to reach me](#How-to-reach-me)
  <br>
  <br>
-<br>
+ <br>
  <br>
 ## Projects 💥
-| Name   | About | Link|
-| --------- | ------- | ------- |
-| Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots.  | https://alkupilkku.github.io/Photography-site/|
-|           |         |
-|           |         |
-|           |         |
-|           |         |
-|           |         |
-|           |         |
+ | Name   | About | Link|
+ | --------- | ------- | ------- |
+ | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots.  | https://alkupilkku.github.io/Photography-site/|
  <br>
  <br>
  <br>
  <br>
  | What I've worked with| 
-| --------- |
-| HTML       |
-| CSS        |
-| JavaScript |
+ | ---------- |
+ | HTML       |
+ | CSS        |
+ | JavaScript |
