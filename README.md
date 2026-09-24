@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,8 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Working on better software development. HTML CSS JavaScript.
+| Working on better software development | Joel Gebre |
+| --------- | ------- |
+| first     |         |
+|           |         |
+|           |         |
+|           |         |
+|           |         |
+|           |         |
+|           |         |
+ HTML CSS JavaScript.
 ## Table of Contents
-- [How to Create Your Profile?](#how-to-create-your-profile)
-- [How to Customize Markdown files?](#how-to-customize-markdown-files)
-- [How to Create New Repository?](#how-to-create-new-repository)
+- [About me](#About-me)
+- [Projects](#Projects)
+- [How to reach me](#How-to-reach-me)
+
