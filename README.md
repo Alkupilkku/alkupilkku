@@ -1,6 +1,6 @@
 ## Hi there 👋
-```sql
- Looking to find projects to be a part of 😄
+```diff
+@@ Looking to find projects to be a part of 😄
 ```
 <!--
 **Alkupilkku/alkupilkku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
