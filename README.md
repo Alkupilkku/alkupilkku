@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my dojo 👋
 
  ⭐ $${\color{lightblue}Looking \space to \space find \space projects \space to \space be \space a \space part \space of}$$ ⭐
  <br>
