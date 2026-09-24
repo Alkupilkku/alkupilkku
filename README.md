@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 | Working on better software development | 
 | --------- |
+| What i've worked with |
+| --------- |
 | HTML       |
 | CSS        |
 | JavaScript |
-|            |
-|            |
-|            |
-|            |
+
 ## Table of Contents
 - [About me](#About-me)
 - [Projects](#Projects)
