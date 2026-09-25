@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - [About me](#About-me)
 
 ## Projects 💥
- | Name   | About | Link |
- | --------- | ------- | ------- |
- | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots.  | https://alkupilkku.github.io/Photography-site/|
+ | Project Name   | Description | Link | Status |
+ | --------- | ------- | ------- | ------- |
+ | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots.  | https://alkupilkku.github.io/Photography-site/| In progress |
 ## About me
  - 🌱 I’m currently learning Javascript.
  - 📷 I like taking photos of nature.
