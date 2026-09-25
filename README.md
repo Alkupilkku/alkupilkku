@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Projects 💥
  | Project Name   | Description | Link | Status |
  | --------- | ------- | ------- | ------- |
- | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots.  | https://alkupilkku.github.io/Photography-site/| In progress |
+ | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots. Was made with HTML and CSS.  | https://alkupilkku.github.io/Photography-site/| In progress |
 ## About me
  - 🌱 I’m currently learning Javascript.
  - 📷 I like taking photos of nature.
