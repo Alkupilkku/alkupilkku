@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Personal Projects 💥
  | Project Name   | Description | Link | Status | Code |
- | --------- | ------- | ------- | ------- | v
+ | --------- | ------- | ------- | ------- | ------- | 
  | Social Link Card | My first HTML & CSS project. A simple social link card base. |  https://alkupilkku.github.io/social-links/ | Complete | [Code](https://github.com/Alkupilkku/social-links/blob/main/index.html) |
  | Stats Preview Card | Stat preview card was where I started learning about responsive layouts and how to handle them.  | https://alkupilkku.github.io/stats-preview-card-component-main/ | Complete | [Code](https://github.com/Alkupilkku/stats-preview-card-component-main/blob/main/index.html) |
  | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots. Was made with HTML and CSS.  | https://alkupilkku.github.io/Photography-site/| In progress | [Code](https://github.com/Alkupilkku/Photography-site/blob/main/index.html) |
