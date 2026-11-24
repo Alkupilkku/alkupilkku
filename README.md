@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  | Month Calendar | Worked on the frontend for this project. Worked with the HTML and CSS. | https://pepemikko.github.io/Month-Calendar/ | Complete | [Code](https://github.com/PePeMikko/Month-Calendar/blob/main/index.html) |
  | Login Page | A login page that uses sqlite. Worked on the frontend with HTML, CSS and JavaScript. | https://first-go-login-page.netlify.app/ | Complete | [Code](https://github.com/Alkupilkku/Login-page/blob/main/script.js) |
  | Task Manager API | A task manager that can keep track of your tasks. Worked on the backend with Javascript, better-sqlite3, Node.js and expressJS. | https://task-manager-api-lqtf.onrender.com/ | Complete | [Code](https://github.com/PePeMikko/Task-Manager-API/blob/main/server.js) |
- | Desktop Time Card Attendance Application | Desktop attendance time card app that works with keyfobs. | ------- | In progress | [Code](https://github.com/Alkupilkku/Desktop-Time-Card-Attendance-Application/blob/main/script.js) |
+ | Desktop Attendance Time Card  Application | Desktop attendance time card app that works with keyfobs. | ------- | In progress | [Code](https://github.com/Alkupilkku/Desktop-Time-Card-Attendance-Application/blob/main/script.js) |
  
 ## About me
  - 🌱 I’m currently learning Javascript.
