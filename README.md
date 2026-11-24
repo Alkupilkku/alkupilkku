@@ -25,9 +25,9 @@ Here are some ideas to get you started:
  | --------- | ------- | ------- | ------- | ------- | 
  | Social Link Card | My first HTML & CSS project. A simple social link card base. |  https://alkupilkku.github.io/social-links/ | Complete | [Code](https://github.com/Alkupilkku/social-links/blob/main/index.html) |
  | Stats Preview Card | Stat preview card was where I started learning about responsive layouts and how to handle them.  | https://alkupilkku.github.io/stats-preview-card-component-main/ | Complete | [Code](https://github.com/Alkupilkku/stats-preview-card-component-main/blob/main/index.html) |
- | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots. Was made with HTML and CSS.  | https://alkupilkku.github.io/Photography-site/| In progress | [Code](https://github.com/Alkupilkku/Photography-site/blob/main/index.html) |
+ | Photo Gallery | One of my hobbies is photography and I wanted a place where I could show off the best of my shots. Made with HTML and CSS.  | https://alkupilkku.github.io/Photography-site/| In progress | [Code](https://github.com/Alkupilkku/Photography-site/blob/main/index.html) |
  | Astro Blog | My  first Astro project where I made a basic blog.  | https://brilliant-dragon-86dce4.netlify.app/ | Complete | [Code](https://github.com/Alkupilkku/astro/blob/master/src/pages/about.astro) |
- | Pomodoro Timer | A pomodoro timer app | https://alkupilkku.github.io/pomodoro-timer/ | Complete | [Code](https://github.com/Alkupilkku/pomodoro-timer/blob/main/pomodoro_timer.js) | 
+ | Pomodoro Timer | A pomodoro timer app. My first javascript project. | https://alkupilkku.github.io/pomodoro-timer/ | Complete | [Code](https://github.com/Alkupilkku/pomodoro-timer/blob/main/pomodoro_timer.js) | 
 
  ## Group Projects 💥
  | Project Name   | Description | Link | Status | Code |
